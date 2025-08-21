@@ -9,6 +9,10 @@ This project showcases how to integrate Rive animations with React using the `@r
 1. **Solos** - Direct animation control for switching between different visual states
 2. **State Machines** - Programmatic control using Rive's state machine system
 
+## 🎬 Demo
+
+![Rive Demo](./demo.gif)
+
 ## 🚀 Features
 
 ### Solos Implementation Not working properly (lack of documentation) (`ChimpleRive.tsx`)
