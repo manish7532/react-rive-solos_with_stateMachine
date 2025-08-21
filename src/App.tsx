@@ -1,6 +1,5 @@
 // import ChimpleRive from "./ChimpleRive";
 import ChimpleRiveWithStateMachine from "./ChimpleRiveWithStateMachine";
-// import ChimpleRiveInspector from "./ChimpleRiveInspector";
 
 export default function App() {
   return (
